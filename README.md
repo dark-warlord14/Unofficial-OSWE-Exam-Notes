@@ -6,7 +6,8 @@ It complements official OffSec materials with practical tips, exam format notes,
 ## Contents
 
 - [OSWE Exam Format & Hidden Insights](OSWE%20Exam%20Format%20%26%20Hidden%20Insights.md)  
-- [OSWE Exam Preparation Guide](OSWE%20Exam%20Preparation%20Guide.md)  
+- [OSWE Exam Preparation Guide](OSWE%20Exam%20Preparation%20Guide.md)
+- [OSWE Exam Format: Client-Side Attack Requirements Research Report.md](OSWE%20Exam%20Format%3A%20Client-Side%20Attack%20Requirements%20Research%20Report.md)
 
 ## Contributing
 
