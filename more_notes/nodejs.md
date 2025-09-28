@@ -1,5 +1,3 @@
-Now I have comprehensive information about Node.js security vulnerabilities and dangerous code patterns. Let me compile this into the requested format based on the research findings.
-
 # Deep Research — Server-Side Vulnerabilities & Dangerous Code Patterns in Node.js
 
 ## Remote Code Execution (RCE)
