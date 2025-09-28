@@ -13,6 +13,10 @@ It complements official OffSec materials with practical tips, exam format notes,
 - [JAVA](more_notes/java.md)
 - [NODEJS](more_notes/nodejs.md)
 - [PHP](more_notes/php.md)
+- [PYTHON](more_notes/python.md)
+- [GO](more_notes/go.md)
+- [CPP](more_notes/cpp.md)
+- [DOTNET](more_notes/dotnet.md)
 
 ## Contributing
 
