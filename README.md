@@ -12,6 +12,7 @@ It complements official OffSec materials with practical tips, exam format notes,
 ## More Language Specific Notes
 - [JAVA](more_notes/java.md)
 - [NODEJS](more_notes/nodejs.md)
+- [PHP](more_notes/php.md)
 
 ## Contributing
 
